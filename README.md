@@ -32,4 +32,4 @@ Front-End web developer
 
 <p align="left"> <a href="https://www.github.com/virenkhembavi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/viren-khembavi-bab7341a0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api?username=virenkhembavi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
