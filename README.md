@@ -5,9 +5,8 @@ Front-End web developer
 -----------------------
 
 * 🌍  I'm based in Mumbai
-* 🖥️  See my portfolio at [HireMe!](http://virenkhembavi.netlify.app/)
+* 🖥️  See my portfolio at [HireMe!](https://portfolio-two-smoky-47.vercel.app/)
 * ✉️  You can contact me at [virenkhembavi8@gmail.com](mailto:virenkhembavi8@gmail.com)
-* 🧠  I'm learning Full-Stack web developer
 
 ### Skills
 
